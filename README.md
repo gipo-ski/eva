@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @evangelineamoura
+- 👋 Hi, I’m Evie :)
 - 👀 I’m interested in user-centred projects.
-- 🌱 I’m currently learning JavaScript & React.
-- 💞️ I’m looking to collaborate on...I'm not sure yet! :) 
+- 🌱 I’m currently trying to improve my TypeScript skills.
+- 💞️ I’m looking to collaborate on interesting projects.
 
 
 <!---
