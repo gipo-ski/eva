@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Junior Software Developer! 😊
 -----------------------------------
 
-I studied Music and Marketing and had a successful career in Sales and am transferring my kindness, imagination and user-centred focus to a career in tech. When I’m not knee-deep in code, I enjoy reading, discovering new restaurants and playing board games with friends. Let's connect!
+I studied Music and Marketing and had a successful career in Sales. Now I'm transferring my empathy, imagination and user-centred focus to a career in tech. When I’m not knee-deep in code, I enjoy reading, discovering new restaurants and playing board games with friends. Let's connect!
 
 * 🌍  I'm based in the UK
 * ✉️  You can contact me at [evieacodes@gmail.com](mailto:evieacodes@gmail.com)
