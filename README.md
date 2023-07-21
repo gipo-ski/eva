@@ -1,15 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Evie
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kunle
 ============================================================================================================================
 
-I'm a Junior Software Developer! 😊
+I'm a Junior Full-Stack Web Developer! 😊
 -----------------------------------
 
-I studied Music and Marketing and had a successful career in Sales. Now I'm transferring my empathy, imagination and user-centred focus to a career in tech. When I’m not knee-deep in code, I enjoy reading, discovering new restaurants and playing board games with friends. Let's connect!
+I studied Mechanical Enginnering
+<!-- and had a successful career in Sales. Now I'm transferring my empathy, imagination and user-centred focus to a career in tech. When I’m not knee-deep in code, I enjoy reading, discovering new restaurants and playing board games with friends. Let's connect! --> 
+
 
 * 🌍  I'm based in the UK
-* ✉️  You can contact me at [evieacodes@gmail.com](mailto:evieacodes@gmail.com)
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on User-Centred Projects
+* ✉️  You can contact me at [koladiji@gmail.com](mailto:koladiji@gmail.com)<!-- (mailto:evieacodes@gmail.com) -->
+* 🧠  I'm deepening my knowledge in javaScript
+<!-- * 🤝  I'm open to collaborating on User-Centred Projects -->
 
 <a href="https://www.twitter.com/nerdinpink" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nerdinpink?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
